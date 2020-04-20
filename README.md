@@ -11,7 +11,7 @@ pkg install git
 
 pkg install mechanize 
 
-git clone https://github.com/Tech-abm/Bangal20-X
+git clone https://github.com/Technical-Syedji/Bangal20-X
 
 cd Bangal20-X
 
@@ -19,8 +19,8 @@ cd Bangal20-X
 
 chmod +x *
 
-python2 abm20
+python2 Syed20
 
-Username : abm
+Username : syed
 
-Password : abm
+Password : Syed
