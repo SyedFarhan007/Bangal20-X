@@ -48,16 +48,16 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """
-\033[1;92m❦ ═════════════ •⊰❂⊱• ═════════════ ❦  \033[1;98mWELCOME TO TECH-ABM  ⨂
+\033[1;92m❦ ═════════════ •⊰❂⊱• ═════════════ ❦  \033[1;98mWELCOME TO TECHNICAL SYEDJI  ⨂
 \033[1;92m❦ ═════════════ •⊰❂⊱• ═════════════ ❦  \033[1;98mBANGLADESH CLONING COMMNADS  ⨂
-\033[1;92m❦ ═════════════ •⊰❂⊱• ═════════════ ❦  \033[1;98mANONYMOUSLY DARK FATE    ⨂
-\033[1;92m❦ ═════════════ •⊰❂⊱• ═════════════ ❦  \033[1;98mWE ARE DARK NIGHT LEGEND   ⨂
+\033[1;92m❦ ═════════════ •⊰❂⊱• ═════════════ ❦  \033[1;98mANONYMOUSLY WORLD WAR    ⨂
+\033[1;92m❦ ═════════════ •⊰❂⊱• ═════════════ ❦  \033[1;98mWORLD WAR TIGER & TRICKERS   ⨂
 
 \033[1;96m❋❈╭┳✪✪╤────────────────────────➛➢
-\033[1;96m⩩⩩║\033[1;92mGITHUB : https://github.com/Tech-abm
-\033[1;96m⩩⩩║\033[1;92mINSTAGRAM : T4bm975
-\033[1;96m⩩⩩║\033[1;92mFACEBOOK : Abdulbasit558
-\033[1;96m⩩⩩║\033[1;92mOWNER : TECH-ABM
+\033[1;96m⩩⩩║\033[1;92mGITHUB : https://github.com/Syedfarhan007
+\033[1;96m⩩⩩║\033[1;92mINSTAGRAM : SYEDFARHAN007
+\033[1;96m⩩⩩║\033[1;92mFACEBOOK : ITXFARHANSHAHHERE9
+\033[1;96m⩩⩩║\033[1;92mOWNER : TECHNICAL SYEDJI
 \033[1;96m❋❈╰┻✪✪╧────────────────────────➛➢
 """
 
@@ -90,8 +90,8 @@ print  """
 \033[1;89m   ⩩⩩ BANGLADESHI COUNTRY COMMNAD ⩩⩩
 \033[1;91m⸎❋⸎▇▇▇▇▇▇▇▇▇▇▇▇⸎❋⸎\033[1;96m⟢⟣\033[1;91m⸎❋⸎▇▇▇▇▇▇▇▇▇▇▇▇▇⸎❋⸎"""
 
-CorrectUsername = "abm"
-CorrectPassword = "abm"
+CorrectUsername = "farhan"
+CorrectPassword = "farhan"
 
 loop = 'true'
 while (loop == 'true'):
@@ -103,10 +103,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.facebook.com/Abdulbasit558')
+            os.system('xdg-open https://www.facebook.com/itxfarhanshahhere9')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.facebook.com/Abdulbasit558')
+        os.system('xdg-open https://www.facebook.com/itxfarhanshahhere9')
 
 def login():
 	os.system('clear')
